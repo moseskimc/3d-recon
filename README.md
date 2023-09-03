@@ -37,3 +37,13 @@ Matched keypoints are shown below
 After performing triangulation, we obtain (note: the image below was saved after performing a rotation, your output might look different):
 
 ![Triangulation](output/Bicycle-perfect/tri.png)
+
+## Docker
+
+To build the image run:
+
+    docker compose build
+
+To run the script, run the following command:
+
+    docker compose up
