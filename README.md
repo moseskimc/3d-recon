@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Three dimensional stereo reconstruction is a fundamental technique in computer vision with a wide range of application in fields such as augmented reality, gaming, and animation to mention a few.
+Three dimensional stereo reconstruction is a fundamental technique in computer vision with a wide range of applications in many fields such as augmented reality, gaming, and animation to mention a few.
 
 ## Data
 
