@@ -1,5 +1,5 @@
 # 3d-recon
-<img src="https://github.com/moseskimc/3d-recon/actions/workflows/CI.yml/badge.svg">
+<img src="https://github.com/moseskimc/3d-recon/actions/workflows/ci.yml/badge.svg">
 
 ## Introduction
 
